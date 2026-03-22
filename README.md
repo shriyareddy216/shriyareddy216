@@ -10,9 +10,7 @@
 
   <!-- Badges -->
 
-  <img src="https://img.shields.io/badge/🌙%20Theme-Dark%20%7C%20Light-5B86E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡%20Status-Coding-ff69b4?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=shriyareddy216&style=for-the-badge&color=5B86E5" />
+  
 
 </div>
 
