@@ -1,5 +1,27 @@
-<h2 align="left">Hi 👋! My name is Shriya Reddy </h2>
-<h2 align="left"> I'm a BTech CSE student & Frontend Developer </h2>
+<!-- ================= HEADER ================= -->
+
+<div align="center">
+
+  <!-- Animated Typing -->
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=5B86E5&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shriya+Reddy;Frontend+Developer;MERN+Stack+Learner;Building+Web+Apps+🚀" />
+
+<br><br>
+
+  <!-- Badges -->
+
+  <img src="https://img.shields.io/badge/🌙%20Theme-Dark%20%7C%20Light-5B86E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡%20Status-Coding-ff69b4?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shriyareddy216&style=for-the-badge&color=5B86E5" />
+
+</div>
+
+<br>
+
+<h3 align="center">BTech CSE Student | Frontend Developer | MERN Stack Learner</h3>
+
+<br>
+
 
 ###
 
