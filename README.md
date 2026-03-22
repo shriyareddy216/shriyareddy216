@@ -8,10 +8,6 @@
 
 <br><br>
 
-  <!-- Badges -->
-
-  
-
 </div>
 
 <br>
