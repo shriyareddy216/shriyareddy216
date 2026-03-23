@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center">BTech CSE Student | Frontend Developer | MERN Stack Learner</h3>
+<h3 align="center">BTech CSE Student | Student Developer | MERN Stack Learner</h3>
 
 <br>
 
