@@ -4,7 +4,7 @@
 
   <!-- Animated Typing -->
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=5B86E5&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shriya+Reddy;Frontend+Developer;MERN+Stack+Learner;Building+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=5B86E5&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shriya+Reddy;Student+Developer+|+CSE;MERN+Stack+Learner;Building+Web+Apps+🚀" />
 
 <br><br>
 
