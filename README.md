@@ -4,7 +4,7 @@
 
   <!-- Animated Typing -->
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=5B86E5&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shriya+Reddy;Student+Developer+|+CSE;MERN+Stack+Learner;Building+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=5B86E5&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Shriya+Reddy;Student+Developer+|+CSE;MERN+Stack+Learner;Building+Web+Apps+🚀" />
 
 <br>
 
@@ -17,9 +17,10 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=shriyareddy216&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800" height="150" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shriyareddy216&layout=compact&theme=dracula" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyareddy216&layout=compact&theme=dracula&cache_seconds=1800" height="150" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shriyareddy216&show_icons=true&theme=dracula" />
 </div>
 
 ###
