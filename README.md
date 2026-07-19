@@ -17,10 +17,10 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shriyareddy216&layout=compact&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=shriyareddy216&show_icons=true&theme=dracula&cache_seconds=1800" />
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shriyareddy216&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyareddy216&layout=compact&theme=dracula&cache_seconds=1800" />
 </div>
 
 ###
